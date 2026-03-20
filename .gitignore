@@ -1,3 +1,11 @@
+# Kimenetek és adatok
+outputs/
+data/
+
+# Szakirodalom
+docs
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
